@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phillipsburg Family Eye Care", "Phillipsburg Family Eye Care\Phillipsburg Family Eye Care.csproj", "{B0BB589F-390B-4CB5-B451-4FBBF8B9232A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrJMVC", "DrJMVC\DrJMVC.csproj", "{C1387971-BFFD-42FD-986D-5F897615BC48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B0BB589F-390B-4CB5-B451-4FBBF8B9232A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B0BB589F-390B-4CB5-B451-4FBBF8B9232A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B0BB589F-390B-4CB5-B451-4FBBF8B9232A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B0BB589F-390B-4CB5-B451-4FBBF8B9232A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1387971-BFFD-42FD-986D-5F897615BC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1387971-BFFD-42FD-986D-5F897615BC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1387971-BFFD-42FD-986D-5F897615BC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1387971-BFFD-42FD-986D-5F897615BC48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
